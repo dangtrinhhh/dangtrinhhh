@@ -9,17 +9,17 @@
 
 ## Connect with me:
 
-<a target="__blank" href="https://g1game.ga"><img align="left" style="color: white;" alt="dangtrinhhh.dev.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+<a target="_blank" href="https://g1game.ga"><img align="left" style="color: white;" alt="dangtrinhhh.dev.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
 
-<a target="__blank" href="https://facebook.com/dangtrinhhh"><img align="left" style="color: white;" alt="dangtrinhhh | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
+<a target="_blank" href="https://facebook.com/dangtrinhhh"><img align="left" style="color: white;" alt="dangtrinhhh | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
 
-<a target="__blank" href="https://youtube.com/"><img align="left" style="color: white;" alt="dangtrinhhh | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
+<a target="_blank" href="https://youtube.com/"><img align="left" style="color: white;" alt="dangtrinhhh | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
 
-<a target="__blank" href="https://twitter.com/dangtrinhhh"><img align="left" style="color: white;" alt="dangtrinhhh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<a target="_blank" href="https://twitter.com/dangtrinhhh"><img align="left" style="color: white;" alt="dangtrinhhh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 
-<a target="__blank" href="https://www.linkedin.com/in/%C4%91%C4%83ng-tr%C3%ACnh-670935218/"><img align="left" style="color: white;" alt="dangtrinhhh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/%C4%91%C4%83ng-tr%C3%ACnh-670935218/"><img align="left" style="color: white;" alt="dangtrinhhh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
-<a target="__blank" href="https://instagram.com/dangtrinhhh"><img align="left" style="color: white;" alt="dangtrinhhh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a target="_blank" href="https://instagram.com/dangtrinhhh"><img align="left" style="color: white;" alt="dangtrinhhh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
 <br />
 
