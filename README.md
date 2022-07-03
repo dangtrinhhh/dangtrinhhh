@@ -1,4 +1,4 @@
-### Hi there, I'm Đỗ Đăng Trình 👋
+## Hi there, I'm Đỗ Đăng Trình 👋
 
 ## I'm a Student, Developer and a great actor ! 🤣
 - 🎓 I'm currently studying at University of Science ( Ho Chi Minh City - Viet Nam National University)
