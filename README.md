@@ -53,6 +53,6 @@
 ---
 # Contact:
 <br/>
-###Email: dangtrinh.dev@gmail.com
+# Email: dangtrinh.dev@gmail.com
 
 ---
