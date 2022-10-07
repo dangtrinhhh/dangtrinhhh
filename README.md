@@ -1,6 +1,6 @@
 ## Hi there, I'm Đỗ Đăng Trình 👋
 
-## I'm a Student, Developer and a great actor ! 🤣
+## I'm curently a 3rd year student, Front-end Developer! 
 - 🎓 I'm currently studying at University of Science ( Ho Chi Minh City - Viet Nam National University)
 - 💻 I'm currently working on dangtrinhhh.dev!
 - 🍀 I'm learning Responsive Web Design
