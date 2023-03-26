@@ -5,7 +5,7 @@
 - 💻 I'm currently working on dangtrinhhh.dev!
 - 🍀 I'm learning Responsive Web Design
 - 💼 I'm looking to collaborate with other content creators for work
-- ️️⚡ Fun fact about me: I love to sing🎤, play badminton️🏸 and programme ⌨
+- ️️⚡  I love to sing🎤, play badminton️🏸 and programme ⌨
 
 ## Connect with me:
 
