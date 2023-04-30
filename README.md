@@ -25,6 +25,7 @@
 
 ## Some of my Github Stats
 [![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=dangtrinhhh&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/dangtrinhhh)
+&nbsp
 [![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=dangtrinhhh&layout=compact)](https://github.com/dangtrinhhh)
 
 
