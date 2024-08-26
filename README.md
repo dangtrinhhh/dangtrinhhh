@@ -1,9 +1,8 @@
 ## Hi there, I'm Đỗ Đăng Trình 👋
 
-## I'm curently a 3rd year student, Front-end Developer! 
-- 🎓 I'm currently studying at University of Science ( Ho Chi Minh City - Viet Nam National University)
-- 💻 I'm currently working on dangtrinhhh.dev!
-- 🍀 I'm learning Responsive Web Design
+## I'm a Software Developer! 
+- 🎓 I graduated from the University of Science ( Ho Chi Minh City - Viet Nam National University)
+- 💻 My core competencies are in ReactJS, Django and Django REST Framework.
 - 💼 I'm looking to collaborate with other content creators for work
 - ️️⚡  I love to sing🎤, play badminton️🏸 and programme ⌨
 
